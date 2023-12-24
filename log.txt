@@ -1,0 +1,2 @@
+implementar proxima_fase
+proxima_fase = mapa[nova_posicao_jogador.linha][nova_posicao_jogador.coluna] == "v" || mapa[nova_posicao_jogador.linha][nova_posicao_jogador.coluna] == ">" || mapa[nova_posicao_jogador.linha][nova_posicao_jogador.coluna] == "<" || mapa[nova_posicao_jogador.linha][nova_posicao_jogador.coluna] == "^"
